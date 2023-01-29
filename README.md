@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ghaan1?tab=repositories](https://github.com/ghaan1?tab=repositories)
 
-- 💬 Ask me about **PHP with Framework Laravel and Flutter**
+- 💬 Ask me about **Laravel or Flutter**
 
 - 📫 How to reach me **gono0608@gmail.com**
 
